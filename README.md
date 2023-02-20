@@ -1,8 +1,8 @@
 - 👋 Hi, I’m badr djemoui
 - 👀 I’m interested in sciences of computer
-- 🌱 I’m currently learning difrence between programming languages
-- 💞️ I’m looking to collaborate on sciences of computer projects
-- 📫 How to reach me :https://www.linkedin.com/in/badr-djemoui-10469a14a/
+- 🌱 I’m currently learning c# programming language
+- 💞️ I’m looking to collaborate on sciences of computer projects like a freelance job
+- 📫 How to reach me :https://www.linkedin.com/in/badr-djemoui-10469a14a/ or badrdjemoui@gmail.com
 
 <!---
 badrdjemoui/badrdjemoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
