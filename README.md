@@ -1,6 +1,6 @@
 - 👋 Hi, I’m badr djemoui
 - 👀 I’m interested in sciences of computer
-- 🌱 I’m currently learning c# programming language
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on sciences of computer projects like a freelance job
 - 📫 How to reach me :https://www.linkedin.com/in/badr-djemoui-10469a14a/ -- badrdjemoui@gmail.com -- https://www.facebook.com/badr8djemoui
 
