@@ -7,6 +7,7 @@
 - https://www.linkedin.com/in/badr-djemoui-10469a14a/
 -  https://www.facebook.com/badr8djemoui
 -  https://www.youtube.com/@BadrDjemoui-zm6ut
+-  https://badrdjemoui.github.io/
 
 <!---
 badrdjemoui/badrdjemoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
