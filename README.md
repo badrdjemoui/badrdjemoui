@@ -1,7 +1,10 @@
-- 👋 Hi, I’m badr djemoui
-- 👀 I’m interested in sciences of computer
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on sciences of computer projects like a freelance job
+Hi, I'm Badr Djemoui 👋
+I'm passionate about computer science and software development.
+💻 I'm currently learning Flutter to build mobile applications.
+🚀 I'm interested in collaborating on computer science projects and mobile app development.
+🌱 I'm always learning new technologies and improving my programming skills.
+You can check my projects on my GitHub profile.
+
 - 📫 How to reach me :
 - Email:badrdjemoui@gmail.com
 - https://www.linkedin.com/in/badr-djemoui-10469a14a/
